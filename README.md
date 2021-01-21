@@ -1,10 +1,10 @@
 ## Links
-- Source code: https://github.com/nrajubn/nb-nest-api/tree/master/src 
+- Source code: https://github.com/nrajubn/nb-nest-api 
 - Hosted App: https://nb-nest-api.herokuapp.com/ 
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+[Nest](https://github.com/nestjs/nest) : This repository describes about the Nest framework and Typescript starter repository
 
 ## Installation
 
